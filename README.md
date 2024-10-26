@@ -1,5 +1,6 @@
 # GameJam
-Proyecto GameJam Unity con temática **SCALE**.  
+Proyecto GameJam Unity con temática **SCALE**
+
 Para probar el demo, descarga el repositorio situándote en la rama VersionFinal.  
 Abre la carpeta con UNITY y abre la escena *init* situado en *GameJam-VersionFinal\Assets\Scenes\Init.unity*  
 ## Mecánica
